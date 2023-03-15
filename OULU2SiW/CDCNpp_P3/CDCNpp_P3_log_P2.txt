@@ -1,0 +1,42 @@
+Oulu-NPU, P2:
+ train from scratch!
+epoch:1, Train: Absolute_Depth_loss= 0.0068, Contrastive_Depth_loss= 0.0027 
+epoch:2, Train: Absolute_Depth_loss= 0.0080, Contrastive_Depth_loss= 0.0028 
+epoch:3, Train: Absolute_Depth_loss= 0.0070, Contrastive_Depth_loss= 0.0027 
+epoch:4, Train: Absolute_Depth_loss= 0.0066, Contrastive_Depth_loss= 0.0026 
+epoch:5, Train: Absolute_Depth_loss= 0.0070, Contrastive_Depth_loss= 0.0027 
+epoch:6, Train: Absolute_Depth_loss= 0.0056, Contrastive_Depth_loss= 0.0025 
+epoch:7, Train: Absolute_Depth_loss= 0.0066, Contrastive_Depth_loss= 0.0027 
+epoch:8, Train: Absolute_Depth_loss= 0.0061, Contrastive_Depth_loss= 0.0027 
+epoch:9, Train: Absolute_Depth_loss= 0.0064, Contrastive_Depth_loss= 0.0026 
+epoch:10, Train: Absolute_Depth_loss= 0.0057, Contrastive_Depth_loss= 0.0026 
+
+ epoch:10, Val:  val_threshold= 0.4120, val_ACC= 0.9982, val_ACER= 0.0044 
+epoch:10, Test:  ACC= 0.9867, APCER= 0.0000, BPCER= 0.0667, ACER= 0.0333 
+epoch:11, Train: Absolute_Depth_loss= 0.0064, Contrastive_Depth_loss= 0.0027 
+epoch:12, Train: Absolute_Depth_loss= 0.0059, Contrastive_Depth_loss= 0.0026 
+epoch:13, Train: Absolute_Depth_loss= 0.0051, Contrastive_Depth_loss= 0.0025 
+epoch:14, Train: Absolute_Depth_loss= 0.0051, Contrastive_Depth_loss= 0.0024 
+epoch:15, Train: Absolute_Depth_loss= 0.0060, Contrastive_Depth_loss= 0.0026 
+epoch:16, Train: Absolute_Depth_loss= 0.0050, Contrastive_Depth_loss= 0.0025 
+epoch:17, Train: Absolute_Depth_loss= 0.0064, Contrastive_Depth_loss= 0.0027 
+epoch:18, Train: Absolute_Depth_loss= 0.0062, Contrastive_Depth_loss= 0.0026 
+epoch:19, Train: Absolute_Depth_loss= 0.0057, Contrastive_Depth_loss= 0.0026 
+epoch:20, Train: Absolute_Depth_loss= 0.0048, Contrastive_Depth_loss= 0.0024 
+
+ epoch:20, Val:  val_threshold= 0.3491, val_ACC= 0.9982, val_ACER= 0.0044 
+epoch:20, Test:  ACC= 0.9900, APCER= 0.0000, BPCER= 0.0500, ACER= 0.0250 
+epoch:21, Train: Absolute_Depth_loss= 0.0060, Contrastive_Depth_loss= 0.0026 
+epoch:22, Train: Absolute_Depth_loss= 0.0047, Contrastive_Depth_loss= 0.0024 
+epoch:23, Train: Absolute_Depth_loss= 0.0073, Contrastive_Depth_loss= 0.0028 
+epoch:24, Train: Absolute_Depth_loss= 0.0060, Contrastive_Depth_loss= 0.0026 
+epoch:25, Train: Absolute_Depth_loss= 0.0076, Contrastive_Depth_loss= 0.0028 
+epoch:26, Train: Absolute_Depth_loss= 0.0054, Contrastive_Depth_loss= 0.0025 
+epoch:27, Train: Absolute_Depth_loss= 0.0052, Contrastive_Depth_loss= 0.0025 
+epoch:28, Train: Absolute_Depth_loss= 0.0052, Contrastive_Depth_loss= 0.0024 
+epoch:29, Train: Absolute_Depth_loss= 0.0065, Contrastive_Depth_loss= 0.0026 
+epoch:30, Train: Absolute_Depth_loss= 0.0049, Contrastive_Depth_loss= 0.0024 
+
+ epoch:30, Val:  val_threshold= 0.1833, val_ACC= 0.9982, val_ACER= 0.0044 
+epoch:30, Test:  ACC= 0.9933, APCER= 0.0000, BPCER= 0.0333, ACER= 0.0167 
+epoch:31, Train: Absolute_Depth_loss= 0.0053, Contrastive_Depth_loss= 0.0025 
